@@ -8,7 +8,7 @@ To perform Amplitude Shift Keying{ASK} using Python
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 ## PROGRAM
 ```
-import numpy as np12455
+import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
 # Butterworth low-pass filter for demodulation
@@ -58,6 +58,6 @@ plt.show()
 ## OUTPUT WAVEFORM
 ![image](https://github.com/user-attachments/assets/f29e540b-f803-4605-aa03-4f9ffbf00d4f)
 ## Graph
-
+![WhatsApp Image 2025-04-16 at 14 02 23_7640d851](https://github.com/user-attachments/assets/96c39df7-ca74-40cb-acc7-983772c80fb1)
 ## Result
 THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON.
